@@ -1,0 +1,14 @@
+/* Grayscale Begin */
+/* Version: 115.5.0esr (64-bit) */
+
+/*
+ * body: Main UI
+ * menupopup: Right click menu
+ * tooltip: Text window shows when mouse hover on URL
+ * panel: Setting menu at top right corner
+ */
+body, menupopup, tooltip, panel {
+    filter: opacity(0.9999999);
+}
+
+/* Grayscale End */
