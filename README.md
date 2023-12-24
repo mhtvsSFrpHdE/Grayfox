@@ -21,3 +21,5 @@ with basically no quality lose on modern FHD displays.
 
 Grayscale is far better than RGB if monitor is not LCD RGB (OLED),  
 or screen is rotated.
+
+This hack also allows using grayscale font antialiasing while keep hardware acceleration remains enabled.
