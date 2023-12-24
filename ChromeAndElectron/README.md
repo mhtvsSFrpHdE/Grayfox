@@ -14,3 +14,6 @@ Simply apply filter opacity to html tag.
 Not yet an extension founded straight forwarded to apply custom css.  
 Edit `workbench.html` under `C:\Users\<user name>\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\code\electron-sandbox\workbench\workbench.html`  
 Apply filter opacity to html tag.
+
+After restart Visual Studio Code, a hint says the installation is broken.  
+Click on gear icon and choose "Don't show again".
