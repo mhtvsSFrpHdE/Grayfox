@@ -23,3 +23,8 @@ Grayscale is far better than RGB if monitor is not LCD RGB (OLED),
 or screen is rotated.
 
 This hack also allows using grayscale font antialiasing while keep hardware acceleration remains enabled.
+
+More discuss on internet:  
+https://github.com/snowie2000/mactype/issues/873  
+https://github.com/microsoft/PowerToys/issues/25595  
+https://github.com/snowie2000/mactype/issues/932
