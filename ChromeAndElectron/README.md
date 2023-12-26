@@ -17,3 +17,8 @@ Apply filter opacity to html tag.
 
 After restart Visual Studio Code, a hint says the installation is broken.  
 Click on gear icon and choose "Don't show again".
+
+### Github Desktop
+
+Like Visual Studio Code, find `C:\Users\<user name>\AppData\Local\GitHubDesktop\app-3.3.6\resources\app\index.html`  
+Apply filter opacity to html tag.
